@@ -15,10 +15,5 @@ Estou atualmente estudando **Python** e também me aprofundando em **HTML** e **
 
 ---
 
-### 🔝 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athosbds&layout=compact&theme=dark)
-
----
-
 ### 🛠️ Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>  
