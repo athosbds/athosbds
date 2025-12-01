@@ -33,6 +33,7 @@ Também utilizo Git/GitHub, Docker e Linux no meu fluxo de trabalho diário.
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy / Alembic" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" alt="Pytest"/>
+  <img src="https://strapi.io/assets/strapi-logo-dark.svg" alt="Strapi" width="50"/>
 </p>
 
 ---
