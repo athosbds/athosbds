@@ -8,7 +8,14 @@ Também utilizo Git/GitHub, Docker e Linux no meu fluxo de trabalho diário.
 ---
 
 ### 📊 GitHub Stats:
-![Athos' GitHub stats](https://github-readme-stats.vercel.app/api?username=athosbds&show_icons=true&theme=dark)  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athosbds&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athosbds&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athosbds&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athosbds&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athosbds&theme=github_dark&utcOffset=-3" />
+</p>
 
 ---
 
