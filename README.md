@@ -22,7 +22,6 @@ Também utilizo Git/GitHub, Docker e Linux no meu fluxo de trabalho diário.
 ### 🔧 Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
 </p>
 
 ---
